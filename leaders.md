@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Tyler Ward](mailto://tyler.ward@owasp.org)
+* [Tyler Ward](mailto:tyler.ward@owasp.org)
